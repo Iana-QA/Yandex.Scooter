@@ -21,7 +21,9 @@
 5. Тестирование новой фичи с помощью инструмента Charles Proxy.
 #### Результат
  [Mindmap](https://www.mindmeister.com/app/map/3383317976?t=SPv00Vi3k0)
+ 
  [Чек-лист веб-приложения](https://docs.google.com/spreadsheets/d/1LGOnQJaTsk03MhkwUmVCbHX8TaeBq-GXAYv52Bar3b0/edit?usp=sharing)
+ 
  [Таблица валидации полей для экрана "Статус заказа"](https://docs.google.com/spreadsheets/d/1ckGbwCHLB4trxUgUHblKklUdNFlQbxMPrT2cD5SXNOg/edit?usp=sharing)
 
 ## Тест-кейс мобильного приложения Яндекс.Самокат для курьеров
